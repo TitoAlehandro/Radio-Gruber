@@ -9,12 +9,19 @@ It work's in linux with cron(or manualy) components.
 All data move to Dropbox.
 You may sync with app Dropsync your data.
 
+
 Algorithm:
+
 1.Grub 5 minutes online radio Megapolis(you will choose your radio station).
+
 2.Clear optional files.
+
 3.Move to Dropbox.
+
 4.Sort files in music folder.(using sort.py https://github.com/TitoAlehandro/Sort-exif--python-exiv2-)
+
 5.Make playlist.m3u in Dropbox music folder.
+
 6.Profit:)
 
 
