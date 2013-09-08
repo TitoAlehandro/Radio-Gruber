@@ -10,6 +10,10 @@ All data move to Dropbox.
 You may sync with app Dropsync your data.
 
 
+
+
+
+
 Algorithm:
 
 1.Grub 5 minutes online radio Megapolis(you will choose your radio station).
@@ -23,6 +27,10 @@ Algorithm:
 5.Make playlist.m3u in Dropbox music folder.
 
 6.Profit:)
+
+
+
+
 
 
 Installation:
