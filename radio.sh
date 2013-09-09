@@ -6,4 +6,5 @@ rm -rf ./incomplete;
 rm -f *.cue;
 mv *.mp3 /home/tito/Dropbox/Общая/radio/;
 cd /home/tito/Dropbox/Общая/radio/;
+python sort.py;
 find . -iregex '.*\.\(mp3\|wav\|wma\)' -print > playlist.m3u
